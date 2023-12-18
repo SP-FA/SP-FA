@@ -1,6 +1,6 @@
 # Hi there, I‘m SPFA 👋
 
-![tly](./pic/lty.jpeg)
+![tly](./pic/lty.jpg)
 
 - 🎒 I'm currently learning Artificial Intelligence.
 - 📧 How to reach me: 2997839760@qq.com
