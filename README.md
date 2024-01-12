@@ -7,4 +7,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SP-FA&layout=compact" width="1000px" height="250px">
 
-![tly](./pic/profile.png)
+![tly](./pic/bg.png)
